@@ -1,6 +1,6 @@
 #  Primeiro Projeto :star: #
 
-##### Olá, esse projeto é um teste para eu treinar as funções do Git e GitHub, e ainda aprender a editar com o Markdown! #####
+#### Olá, esse projeto é um teste para eu treinar as funções do Git e GitHub, e ainda aprender a editar com o Markdown! ####
 
 Vou criar uma lista com **frases motivacionais**, para esse primeiro projeto inspirar quem está lendo! Olha só: :eyes:
 
